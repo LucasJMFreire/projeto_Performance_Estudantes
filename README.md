@@ -19,7 +19,7 @@ Respondendo as perguntas:
 ![cod graf nivel par media final](https://github.com/LucasJMFreire/projeto_Performance_Estudantes/assets/108015773/1d3cd506-02b3-4736-9b08-0914a4383429)
 ![tipo ins x med final](https://github.com/LucasJMFreire/projeto_Performance_Estudantes/assets/108015773/37ba87d0-9e00-47ec-872f-f5ea1f49de12)
 
-**Como podemos ver, foi observado que o grau de instrução dos pais impactou na performance dos filhos, sendo observado uma maior média no estudantes cujos pais apresentaram um maior nível de instrução!**
+**Como podemos ver, foi observado que o grau de instrução dos pais impactou na performance dos filhos, sendo observado uma maior performance dos estudantes cujos pais apresentaram um maior nível de instrução!**
 
 
 2. O investimento em um curso preparativo auxiliou em uma maior nota?
@@ -27,7 +27,7 @@ Respondendo as perguntas:
 ![cod curso prep media final](https://github.com/LucasJMFreire/projeto_Performance_Estudantes/assets/108015773/7e1a4faa-9d56-4372-8ab5-c6271ae5b222)
 ![pre curso x med final](https://github.com/LucasJMFreire/projeto_Performance_Estudantes/assets/108015773/08d8837b-ce38-482b-a1e6-e668414b9f38)
 
-**Foi visto que os estudantes que realizaram um curso preparatório para as provas obtiveram uma média final maior!** 
+**Foi visto que os estudantes que realizaram um curso preparatório para as provas obtiveram uma maior nota final!** 
 
 
 3.  Existiu diferença em cada tipo de prova entre os gêneros?
